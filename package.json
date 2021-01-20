@@ -1,0 +1,15 @@
+{
+  "name": "worker-demo",
+  "version": "1.0.0",
+  "description": "[Speedy Introduction to Web Workers](https://auth0.com/blog/speedy-introduction-to-web-workers/)",
+  "main": "index.js",
+  "scripts": {
+    "dev": "browser-sync start --server --files 'index.html', 'src/*.js'"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "browser-sync": "^2.26.13"
+  }
+}
